@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675516660 source:c:\users\jerbi\documents\1 bi\semestre 2\programmation\les pointeurs\exercice 03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684065376 source:c:\users\jerbi\documents\1ère année business intelligence ihec carthage\semestre 2\programmation c\examen 2021\examen partie 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

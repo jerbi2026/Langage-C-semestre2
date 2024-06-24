@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1676212618 source:c:\users\jerbi\documents\1 bi\semestre 2\programmation\les pointeurs\exercice 05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

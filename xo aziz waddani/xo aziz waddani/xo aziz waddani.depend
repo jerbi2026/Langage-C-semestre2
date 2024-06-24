@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1684334511 source:c:\users\jerbi\documents\1ère année business intelligence ihec carthage\semestre 2\programmation c\xo aziz waddani\xo aziz waddani\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+

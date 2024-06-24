@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683501786 source:c:\users\jerbi\documents\1ère année business intelligence ihec carthage\semestre 2\programmation c\serie les piles et les files\file methode enfiler defiler\main.c
+	<stdio.h>
+	<stdlib.h>
+

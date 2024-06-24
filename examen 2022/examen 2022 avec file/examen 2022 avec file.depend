@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683762852 source:c:\users\jerbi\documents\1ère année business intelligence ihec carthage\semestre 2\programmation c\examen 2022\examen 2022 avec file\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

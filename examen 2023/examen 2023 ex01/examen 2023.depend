@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1684152734 source:c:\users\jerbi\documents\1ère année business intelligence ihec carthage\semestre 2\programmation c\examen 2023\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1684176657 source:c:\users\jerbi\documents\1ère année business intelligence ihec carthage\semestre 2\programmation c\examen 2023\examen 2023 ex01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

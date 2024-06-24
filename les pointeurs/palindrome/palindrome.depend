@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675422774 source:c:\users\jerbi\documents\1 bi\semestre 2\programmation\les pointeurs\palindrome\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

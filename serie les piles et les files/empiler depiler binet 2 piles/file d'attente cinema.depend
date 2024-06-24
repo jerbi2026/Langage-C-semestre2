@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1683394447 source:c:\users\jerbi\documents\1ère année business intelligence ihec carthage\semestre 2\programmation c\serie les piles et les files\file d'attente cinema\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1683394447 source:c:\users\jerbi\documents\1ère année business intelligence ihec carthage\semestre 2\programmation c\serie les piles et les files\empiler depiler binet 2 piles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

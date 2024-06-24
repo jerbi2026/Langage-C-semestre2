@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676216982 source:c:\users\jerbi\documents\1 bi\semestre 2\programmation\11-02-2023\exercice avec allocation dynamique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
